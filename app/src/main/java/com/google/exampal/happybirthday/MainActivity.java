@@ -7,6 +7,10 @@ import android.os.Bundle;
  *The file has been changed in GitHub!
  */
 
+/**
+ * And thid command is made from android studio!
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
